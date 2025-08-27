@@ -5,16 +5,11 @@ import { Copy, Check } from "lucide-react"
 import { useState } from "react"
 
 const IMAGE_URLS = {
-  classificationLines:
-    "https://github.com/enzifiri/dont-delete/blob/main/gradient-lines.png?raw=true",
-  letsCat:
-    "https://github.com/enzifiri/dont-delete/blob/main/cat1-new.png?raw=true",
-  growthCat:
-    "https://github.com/enzifiri/dont-delete/blob/main/cat2-new.png?raw=true",
-  togetherCat:
-    "https://github.com/enzifiri/dont-delete/blob/main/cat3-new.png?raw=true,
-  chonkrPieCharacter:
-    "https://github.com/enzifiri/dont-delete/blob/main/pie.png?raw=true",
+  classificationLines: "https://github.com/enzifiri/dont-delete/blob/main/gradient-lines.png?raw=true",
+  letsCat: "https://github.com/enzifiri/dont-delete/blob/main/cat1-new.png?raw=true",
+  growthCat: "https://github.com/enzifiri/dont-delete/blob/main/cat2-new.png?raw=true",
+  togetherCat: "https://github.com/enzifiri/dont-delete/blob/main/cat3-new.png?raw=true",
+  chonkrPieCharacter: "https://github.com/enzifiri/dont-delete/blob/main/pie.png?raw=true",
 }
 
 export default function ChonkrLanding() {
